@@ -1,0 +1,9 @@
+#+title: Appwrite Sveltekit SSR Template
+#+author: Mateo León Camacho
+
+* Why?
+To reduce boilerplate. This is the foundation to build apps upon, with some QoL features (see [[*Features]]).
+
+* Features
++ Prettified logging to server terminal using Pinojs.
++ Email OTP authentication.
