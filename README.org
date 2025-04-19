@@ -1,9 +1,17 @@
 #+title: Appwrite Sveltekit SSR Template
 #+author: Mateo León Camacho
 
-* Why?
-To reduce boilerplate. This is the foundation to build apps upon, with some QoL features (see [[*Features]]).
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: introduction
+:END:
+The end goal of this repository is to serve as a /not-so/ starting point to create Sveltekit apps with Appwrite as the backend. It adds some basic QoL features, sane defaults and annotations to help you build upon it.
+
 
 * Features
+:PROPERTIES:
+:CUSTOM_ID: features
+:END:
 + Prettified logging to server terminal using Pinojs.
++ [[https://next.shadcn-svelte.com/][shadcn/svelte]] for pretty, consistent, no-brainer UI.
 + Email OTP authentication.
